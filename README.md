@@ -1,3 +1,3 @@
 # Hi there
-:relaxed: I'm a student at a university in South Korea
-:computer: This is my repository for computer language class
+:relaxed: I'm a university student in South Korea 
+:computer: This is my repository for the computer language class
